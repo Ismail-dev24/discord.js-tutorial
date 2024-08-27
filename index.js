@@ -47,4 +47,4 @@ client.on('messageCreate', message => {
     }
 });
 
-client.login('TOKEN'); // تحطون التوكن هنا
+client.login('MTI3NzIzNTY0NDQ4NTMzNzA5OA.GVJlIk.6BfQYZlnAiDB_ubocsfM_5Zob3selxzAY8ATgg'); // تحطون التوكن هنا
